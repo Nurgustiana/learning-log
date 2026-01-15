@@ -8,7 +8,7 @@
 ---
 ## 🔗 Related Repositories
 
-- **📂 Portfolio:** [View my completed projects](https://github.com/yourusername/portfolio)
+- **📂 Portfolio:** [View my completed projects](https://github.com/Nurgustiana/portfolio)
 - **📚 Learning Log:** You are here!
 
 ## How I Organize My Work
