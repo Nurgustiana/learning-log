@@ -6,6 +6,19 @@
 **Resources:** freeCodeCamp & The Odin Project
 
 ---
+## 🔗 Related Repositories
+
+- **📂 Portfolio:** [View my completed projects](https://github.com/yourusername/portfolio)
+- **📚 Learning Log:** You are here!
+
+## How I Organize My Work
+
+**learning-log** = Daily progress, notes, reflections  
+**portfolio** = Finished projects, deployable code  
+
+When I complete a project, it moves from planning (here) to deployment (portfolio)!
+
+---
 
 ## 📅 Progress Tracker
 
