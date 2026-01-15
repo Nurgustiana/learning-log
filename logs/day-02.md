@@ -1,4 +1,4 @@
-# Day 2 - January 14, 2026
+# Day 2 - January 13, 2026
 
 ## What I Learned Today
 - Created README.md file and learned Markdown formatting
