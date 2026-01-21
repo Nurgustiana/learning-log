@@ -1,16 +1,17 @@
-# Day 8 - January 20, 2026
+# Day 10 - January 21, 2026
 
 ## What I Learned Today
 - continue learning freeCodeCamp CSS
 
 ## What I Built/Practiced
-- Accessibility, Using Floats, Positioning (static, fixed, relative, absolute, sticky, Z-index).
-- Built: Newpaper Article; Trubute Page; House Painting (implementing the above).
+- Using attribute selector; list styling; CSS Grid and Flexbox (preview); Media Queries; CSS customer properties & @property.
+- Built: Book Inventory App; Technical Document Page; Availability Table.
 
 ## Challenges I Faced
-- 
+- I completed and passed the Availability Table (one of the certification project on FCC), but not really satisfied with the overall layout.
+
 ## How I Solved Them
-- 
+- Will revisit and fine tune again later in future.
 
 ## Resources Used
 - freeCodeCamp: "CSS"
@@ -24,17 +25,14 @@
 ## Tomorrow's Goals
 - Continue freeCodeCamp: Complete "CSS"
 - exploring project
-- Make my seventh daily commit
+- Make my 11th daily commit
 
 ## Mood/Reflection
 Need to maintain my pace; start to fell a bit slow, perhaps due to a lot of theory materials to read.
 
 ## Code Snippets Worth Remembering
-form {
-  display: flex;
-  flex-direction: column;
-  gap: 15px;
-  justify-content: center, space-around, space-between
+@media screen and (feature: value) {
+  /* css rule */
 }
 
 ## What Surprised Me Today
