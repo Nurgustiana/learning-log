@@ -12,6 +12,21 @@
 - **📚 Learning Log:** You are here!
 
 ## How I Organize My Work
+This is the plan. I divided my learning journey into four main buckets:
+    1. Month-1: Learn HTML & CSS:
+        a. Combining FreeCodeCamp with The Odin Project.
+        b. If still have time: 
+            b.1 continue to learn JavaScript basic and Git/GitHub (week 3 - week 4)
+            b.2. Fine tune all certificate projects and upload to GitHub. 
+    2. Month-2: Advance JavaScript (and start to learn React)
+    3. Month-3: Continue lerning React and start Back-end Development (NodeJS & Express, and Mongo DB)
+    4. Month-4: Full-Stack integration and enhance portfolio
+        a. Blog-API; "Odin Book" Project;
+        b. The Grand Finale: We are going to combine everything. Build the TOP "Where's Waldo" (Photo Tagging) App** or a simple Blog.
+        c. Idea for my personal project: "World Coffee Identifier"!
+        
+    - **Launch:** Use a site called **Vercel** (it’s free and easy) to put your project on the internet.
+
 
 **learning-log** = Daily progress, notes, reflections  
 **portfolio** = Finished projects, deployable code  
