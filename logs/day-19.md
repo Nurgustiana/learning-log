@@ -1,10 +1,10 @@
-# Day 18 - January 29, 2026
+# Day 19 - January 30, 2026
 
 ## What I Learned Today
-- Begin to learn JavaScript: Data type; Variables; let vs const; Intro to string; function vs method; concat(); console.log(); dynamic vs statically typing.
+- Begin to learn JavaScript: typeOf(); Object; bracket notation; accessing last character; creating newline (\n); escaping character (\char\).
 
 ## What I Built/Practiced
-- JavaScript Trivia Bot and Build a sentence maker.
+- no workshop, only theory this day.
 
 ## Challenges I Faced
 - JS different with html and css...this is the real deal.
