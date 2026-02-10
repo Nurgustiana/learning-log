@@ -2,7 +2,7 @@
 
 ## What I Learned Today
 
-- JavaScript object summary.
+- JavaScript Object summary.
 
 ## What I Built/Practiced
 
@@ -14,18 +14,18 @@ Build:
 
 ## How I Solved Them
 
-- reviewing past notes, googling
+-
 
 ## Resources Used
 
-- FCC, TOP
+- FCC
 
 ## Time Spent
 
-- Morning: 3
-- Afternoon: 2
-- Evening: 2
-- **Total: 7 hours**
+- Morning:
+- Afternoon: 1
+- Evening: 1
+- **Total: 2 hours**
 
 ## Tomorrow's Goals
 
