@@ -7,10 +7,12 @@
      a. for
      b. for...of
      c. for...in
+     d. while; do...while
+     e. Break and continue
 
 ## What I Built/Practiced
 
-Build:
+Build: NA all theory today
 
 ## Challenges I Faced
 
