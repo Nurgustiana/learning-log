@@ -2,12 +2,14 @@
 
 ## What I Learned Today
 
-- JavaScript: FreeCodeCamp theory and lab (practices)
+- JavaScript FreeCodeCamp theory and lab (practices): Module (export and import); Arguments Object vs Rest Parameter; 
 
 ## What I Built/Practiced
 
 Build: (lab practice):
-1. 
+1. Implement a unique sorter union
+2. Password Generator
+3. SumAll numbers algorithm
 
 ## Challenges I Faced
 
